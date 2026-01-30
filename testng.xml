@@ -3,8 +3,7 @@
 <suite name="Suite">
 
 	<listeners>
-		<listener
-			class-name="com.codenbox.MavenProject.Listeners" />
+		<listener class-name="com.codenbox.MavenProject.Listeners" />
 		<listener class-name="resources.ExtentReporterNG" />
 	</listeners>
 
